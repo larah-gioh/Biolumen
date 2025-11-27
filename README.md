@@ -28,7 +28,8 @@
 
 
 > MAPA DO JOGO
-ADICIONAR GIF QUE ESTÁ NO ESCOPO, AQUI!!!!!!!
+<img width="694" height="394" alt="image" src="https://github.com/user-attachments/assets/19db4697-5db0-471f-980b-8d4e1c257f54" />
+
 
 
 > MECÂNICAS
