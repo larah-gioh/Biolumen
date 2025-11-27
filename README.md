@@ -29,6 +29,8 @@
 
 > MAPA DO JOGO
 <img width="694" height="394" alt="image" src="https://github.com/user-attachments/assets/19db4697-5db0-471f-980b-8d4e1c257f54" />
+<img width="1159" height="657" alt="image" src="https://github.com/user-attachments/assets/3baacc71-2db0-4c51-8f98-5923989ced43" />
+
 
 
 
