@@ -9,6 +9,9 @@
 
 - Público alvo: 12~25 anos
 
+- ![Uploading _v41b3.gif…]()
+
+
 - Visão geral do jogo: A gameplay de Lucy coloca o jogador em um vale luminoso de muitas perguntas e nenhuma resposta, a luz é um elemento mortal para quem quer que queira tocá-la, viver nas sombras é seu melhor caminho, mas cuidado. Cabe ao jogador desvendar os mistérios que o colocaram nesta situação, evitando ou eliminando sorrateiramente o máximo de inimigos possível. A única coisa que não consegue evitar são os quebra-cabeças, procure formas criativas de escapar.
 
 - Escopo do Protótipo - Teste de mecânicas:
@@ -81,6 +84,8 @@ IA de detecção, ponto de restauração, níveis de intensidade da luz, morte i
 > ITEMS
 <img width="626" height="897" alt="image" src="https://github.com/user-attachments/assets/a327814a-bafa-4d8c-a277-74d8d430cb78" />
 <img width="614" height="829" alt="image" src="https://github.com/user-attachments/assets/1c93bcbf-bac3-467c-bd34-62144acf8104" />
+
+
 
 
 
